@@ -15,6 +15,9 @@ manual.pdf      - detail info about usage and implementation
 readme.md       - this file
 
 
+![Vut fit logo](doc/sniffing.jpeg)
+
+
 # Example of sniffing ICMP packet
 
 ![Vut fit logo](doc/Testing/any/sniffer-any-icmp.png)
